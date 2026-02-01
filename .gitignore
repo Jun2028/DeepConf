@@ -4,3 +4,4 @@
 pytest-cache-files-*/
 __pycache__/
 *.pyc
+runs/
